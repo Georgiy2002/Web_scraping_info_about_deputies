@@ -26,7 +26,7 @@
 
 
 ### Государственный Совет Удмуртской Республики (http://www.udmgossovet.ru)
-[Код здесь]()
+[Код здесь](https://github.com/Georgiy2002/Web_scraping_info_about_deputies/blob/main/Udmurtia.py)
 
 ### Государственное собрание Республики Татарстан (https://gossov.tatarstan.ru)
 [Код здесь](https://github.com/Georgiy2002/Web_scraping_info_about_deputies/blob/main/Tatarstan.py)
